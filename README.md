@@ -1,7 +1,7 @@
 # FSWD-PRACTICAL 
 # These repo is related to full stack web development practical
-# In First Practical There are 9 tasks 
-# these are the list of tasks
+ In First Practical There are 9 tasks 
+ these are the list of tasks
 1)Declare var,let,const with different datatype.
 2)Write a function that takes argument of two numbers and return their sum,substraction,multiplication,division.
 3)How to use prompt in javascript.
