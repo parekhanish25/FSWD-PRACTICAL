@@ -1,0 +1,8 @@
+// Using var
+var example = 'Hello Ap';
+console.log(example);
+// Using let
+let exapmle1 = 2588;
+console.log(exapmle1);
+// Using const
+const myConst = true;

@@ -1,0 +1,31 @@
+1)Using Var: function
+testScope() {
+var variable = "Hello, world!";
+} testScope(); console.log(variable);
+
+2)Using let:
+function testScope() {
+let variable = "Hello, world!";
+} testScope();
+console.log(variable);
+
+3)Using const:
+function testScope()
+{
+const variable =
+"Hello, world!";
+} testScope();
+console.log(variable);
+
+4)b)Hoisting: case1:
+x = 5; // Assign 5 to x
+elem = document.getElementById("demo"); // Find an element
+elem.innerHTML = x; // Display x in the element
+var x; // Declare x
+
+5)Using let and const variables:
+carName = "Volvo";
+let carName;
+
+6)carName = "Volvo";
+const carName;
